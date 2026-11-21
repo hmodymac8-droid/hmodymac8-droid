@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
 <style>.t{font:700 22px 'Segoe UI',Verdana,sans-serif;fill:#FFD700}
-.w{clip-path:inset(0 100% 0 0);animation:ty 3s steps(23,end) infinite alternate}@keyframes ty{to{clip-path:inset(0 -20px 0 0)}}
-.c{animation:mv 3s steps(23,end) infinite alternate,bl .8s steps(1) infinite}@keyframes mv{from{transform:translateX(0)}to{transform:translateX(440px)}}@keyframes bl{50%{opacity:0}}</style>
+.w{clip-path:inset(0 100% 0 0);animation:ty 8s infinite}
+@keyframes ty{0%{clip-path:inset(0 100% 0 0);animation-timing-function:steps(23,end)}30%{clip-path:inset(0 -20px 0 0)}67%{clip-path:inset(0 -20px 0 0);animation-timing-function:steps(23,end)}90%,100%{clip-path:inset(0 100% 0 0)}}
+.c{animation:mv 8s infinite,bl .8s steps(1) infinite}
+@keyframes mv{0%{transform:translateX(0);animation-timing-function:steps(23,end)}30%{transform:translateX(440px)}67%{transform:translateX(440px);animation-timing-function:steps(23,end)}90%,100%{transform:translateX(0)}}
+@keyframes bl{50%{opacity:0}}</style>
 <rect width="1000" height="120" rx="14" fill="#0a0a0c"/>
 <text x="270" y="68" class="t w" textLength="440" lengthAdjust="spacingAndGlyphs">GOTHAM NEEDS CLEAN CODE</text>
 <rect x="276" y="48" width="12" height="26" fill="#FFD700" class="c"/></svg>
