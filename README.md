@@ -17,10 +17,10 @@
 
 ### 🦇 About me
 
-- 🛠️ I build **Windows apps**, **game mods** and **command-line tools**
-- 🎮 I make **Megabonk** mods: Mod Hub, Quest Tracker and the one-click installer
-- 🧹 I build **PC-Butler**, a free all-in-one Windows tidy-up utility (English and Arabic)
-- 📚 I build **Yomi (読み)**, a manga, manhwa and manhua reader for Windows
+- 🛠️ I built **Windows apps**, **game mods** and **command-line tools**
+- 🎮 I make **game mods**, like Mod Hub, Quest Tracker and a one-click installer for **Megabonk**
+- 🧹 I built **PC-Butler**, a free all-in-one Windows tidy-up utility (English and Arabic)
+- 📚 I built **Yomi (読み)**, a manga, manhwa and manhua reader for Windows
 - 🌍 I speak **English** and **العربية**
 
 ---
