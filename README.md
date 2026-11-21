@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Ahmed%20Hussain&fontColor=FFD700&fontSize=48&animation=fadeIn&fontAlignY=38&desc=It's%20okay%2C%20I'm%20Batman%20%F0%9F%A6%87&descAlignY=58&descColor=cccccc" width="100%"/>
+<img src="assets/name-title.svg" width="100%" alt="Ahmed Hussain"/>
+<img src="assets/gotham-skyline.svg" width="100%" alt="Gotham skyline"/>
 
 <a href="https://github.com/hmodymac8-droid">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Windows+apps+%E2%80%A2+Game+mods+%E2%80%A2+Tools;Building+Megabonk+mods+for+Nexus;Making+PCs+tidy+with+PC-Butler;Reading+manga+with+Yomi+%E8%AA%AD%E3%81%BF;Working+in+the+shadows+%F0%9F%A6%87" alt="Typing SVG" />
@@ -13,7 +14,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### 🦇 About me
 
@@ -23,7 +24,7 @@
 - 📚 I built **Yomi (読み)**, a manga, manhwa and manhua reader for Windows
 - 🌍 I speak **English** and **العربية**
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### ⚡ Tech stack
 
@@ -33,7 +34,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### 🗂️ Featured projects
 
@@ -48,7 +49,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### 📊 GitHub stats
 
@@ -61,7 +62,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### 🐍 Contribution snake
 
@@ -76,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+<img src="assets/footer_v2.svg" width="100%" alt="Gotham needs clean code"/>
 
 <sub>🦇 "It's not who I am underneath, but what I commit that defines me."</sub>
 
