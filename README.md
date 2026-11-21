@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="assets/name-title.svg" width="100%" alt="Ahmed Hussain"/>
-<img src="assets/gotham-skyline.svg" width="100%" alt="Gotham skyline"/>
+<img src="assets/header.svg" width="100%" alt="Ahmed Hussain"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <a href="https://github.com/hmodymac8-droid">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Windows+apps+%E2%80%A2+Game+mods+%E2%80%A2+Tools;Building+Megabonk+mods+for+Nexus;Making+PCs+tidy+with+PC-Butler;Reading+manga+with+Yomi+%E8%AA%AD%E3%81%BF;Working+in+the+shadows+%F0%9F%A6%87" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 ### 🦇 About me
 
@@ -24,7 +24,7 @@
 - 📚 I built **Yomi (読み)**, a manga, manhwa and manhua reader for Windows
 - 🌍 I speak **English** and **العربية**
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 ### ⚡ Tech stack
 
@@ -34,7 +34,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 ### 🗂️ Featured projects
 
@@ -49,7 +49,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 ### 📊 GitHub stats
 
@@ -62,7 +62,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 ### 🐍 Contribution snake
 
